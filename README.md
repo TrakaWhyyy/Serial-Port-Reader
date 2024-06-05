@@ -10,4 +10,4 @@ This is serial port reader app
 [github](https://github.com/TrakaWhyyy) \:octocat: <br>
 email \:email: chamikagihanedirisuriya@gmail.com <br>
 
-![alt text](https://github.com/TrakaWhyyy/Serial-Port-Reader/blob/219500936542f61b2b2fb56a53a1a9789dd62c5c/Screenshot%202024-06-05%20004427.png?raw=true)
+![alt text](https://github.com/TrakaWhyyy/Serial-Port-Reader/blob/7356e1333aa3d30ff3fdb10de19e2b66c834089c/Screenshot%202024-06-05%20004427.png?raw=true)
